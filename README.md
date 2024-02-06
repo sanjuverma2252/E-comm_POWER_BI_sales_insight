@@ -48,6 +48,10 @@ Before using the Power BI dashboard, ensure you have the following:
 
 The Power BI dashboard is built on the e-commerce Excel dataset.
 
+## Acknowledgement
+
+This project's tasks and inspiration are derived from the Techtip24 workshop. We acknowledge their contributions and thank them for providing valuable guidance and direction.
+
 ## Contributing
 
 If you would like to contribute to the project, please follow the guidelines in [CONTRIBUTING.md] and submit a pull request.
